@@ -2,7 +2,7 @@
 
 ### I’m going to show you how to send email from android app using java mail API. Watch to learn how it work and don’t forget to turn on your notifications!
 
-# video explain :
+### video explain :
 
 
 First you need to create app password for send email from app.Follow the instructions.
