@@ -5,7 +5,8 @@
 ### video explain :
 
 
-First you need to create app password for send email from app.Follow the instructions.
+First you need to create app password for send email from app.
+Follow the instructions.
 
     Create & use App Passwords
     Go to your Google Account.
