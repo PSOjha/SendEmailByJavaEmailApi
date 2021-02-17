@@ -25,3 +25,17 @@ https://code.google.com/archive/p/javamail-android/downloads
 
 
 #### Screenshots
+
+##### Device 1st
+      sending send mail and checking JavaEmailApi is working or not..!!
+      
+      Home screen                               |
+      :------------------------------------------:|
+      <img src="Screenshot/Device 1st.jpg" width="200">|
+
+##### Device 2nd
+      JavaEmailApi working fine.
+      below is the screenshot of getting Email from 1st device
+ Home screen                               | Foreground Service Screen                                     |
+:------------------------------------------:|:-------------------------------------------:
+<img src="2nd device forground notification.jpg" width="200">|<img src="2nd device gmail msg.jpg" width="200">|
